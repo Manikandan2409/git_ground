@@ -12,8 +12,13 @@ public class Main {
             System.out.println("i = " + i);
         }
         test();
+        major();
     }
     static  void  test(){
         System.out.println("kattapa");
+    }
+    static  void major(){
+        System.out.println("Amaran");
+        System.out.println("Checking 2nd");
     }
 }
