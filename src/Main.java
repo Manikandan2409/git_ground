@@ -12,5 +12,10 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("Devaraj");
         }
+       int b = branch();
+    }
+    static  int branch(){
+        System.out.println("sb_mani");
+        return  0;
     }
 }
